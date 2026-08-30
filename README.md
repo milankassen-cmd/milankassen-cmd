@@ -11,8 +11,7 @@ the data directly when the notebook is run. Plotly is also the library used for 
 in Github, as the files are too large - notebooks will need to be run.
 
 <br><ins> Project 1: Algorithmic Trading Strategies </ins></br>
-This project explores a few different traditional algorithmic trading strategies. All of them are a simple Trend Following approach
-and we explore the use of Moving Averages. This is a basic time series analysis technique and is an important foundational skill
+This project explores a few different traditional algorithmic trading strategies, using the Dow Jones stock ticker. All of them are a simple Trend Following approach and we explore the use of Moving Averages. This is a basic time series analysis technique and is an important foundational skill
 to have within this niche. Each strategy has its strengths and will be up to the hypothetical trader to decide which one to use,
 taking into account the risk and potential returns.
 
