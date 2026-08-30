@@ -5,8 +5,8 @@ skills that I have within the field.
 <br>Python, SQL, Numpy, Pandas, Matplotlib, Plotly
 PmdArima, Scikit-Learn, Scipy, StatsModels</br>
 
-<br> ###Project 1: Algorithmic Trading Strategies </br>
-<br>Project 2: Portfolio Optimization (Finance)</br>
-<br>Project 3: Currency Price Prediction (Time Series Forecasting)</br>
+<br><ins> Project 1: Algorithmic Trading Strategies </ins></br>
+<br> Project 2: Portfolio Optimization (Finance )</br>
+<br> Project 3: Currency Price Prediction (Time Series Forecasting) </br>
 <!--
 **milankassen-cmd/milankassen-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
