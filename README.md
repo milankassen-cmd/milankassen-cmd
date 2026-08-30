@@ -5,7 +5,7 @@ skills that I have within the field.
 Python, SQL, Numpy, Pandas, Matplotlib, Plotly
 PmdArima, Scikit-Learn, Scipy, StatsModels
 
-Project 1: Algorithmic Trading Strategies
+<br>Project 1: Algorithmic Trading Strategies</br>
 Project 2: Portfolio Optimization (Finance)
 Project 3: Currency Price Prediction (Time Series Forecasting)
 <!--
